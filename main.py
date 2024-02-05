@@ -2,10 +2,6 @@ def main():
     name = input('Enter your name: ')
     print(f'Hello, {name}!')
 
-    characters = set()
-    
-    for char in name:
-        characters.add(char)
-
+# do what you told to dont try to be smart
 if __name__ == '__main__':
     main()
